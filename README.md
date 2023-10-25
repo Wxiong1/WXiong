@@ -1,6 +1,6 @@
 - 👋 Hi, you can call me Wendy
 - 👀 I’m interested in python programming language, web development, creating applications, software, and games
-- 🌱 I’m currently learning intermediate Python, Visual Basic.NET, SQL, and C
+- 🌱 I’m currently learning intermediate Python, Java, JavaScript, HTML/CSS, Visual Basic.NET, SQL, Linux, and C++
 - 💞️ I’m looking to collaborate on creating an application or software
 - 📫 How to reach me : xiongw@live.com
 
